@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAP</string>
+    <string name="access_token">pk.eyJ1IjoiYmxpbmt0ZW56IiwiYSI6ImNqeGcyNDQ1MzEyNzUzeG1qd2c2M3dtaW4ifQ.JGEfIl-MfcC0bR4HPZiIrw</string>
+    <string name="start">Start</string>
+</resources>
